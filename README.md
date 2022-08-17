@@ -1,6 +1,6 @@
 # mlops-certifications
 
-Some brief notes on popular certifiations related to MLOPs:
+Some brief notes on popular certifications related to MLOPs:
 
 ## Databricks
 
