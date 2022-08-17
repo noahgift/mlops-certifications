@@ -1,6 +1,6 @@
 # mlops-certifications
 
-Some brief notes on popular certifications related to MLOPs:
+Some brief notes on popular certifications related to MLOPs (with a special note towards the enterprise).
 
 ## Databricks
 
@@ -28,3 +28,4 @@ Training material:
 ## References
 
 * [Red Hat Enterprise MLOps](https://cloud.redhat.com/blog/enterprise-mlops-reference-design)
+* [Sagemaker Enterprise MLOps](https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/)
