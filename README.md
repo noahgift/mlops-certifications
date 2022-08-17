@@ -16,3 +16,8 @@ Some brief notes on popular certifications related to MLOPs:
 ## AWS
 
 * [AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
+
+
+## Azure
+
+* [End-to-end machine learning operations (MLOps) with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/paths/build-first-machine-operations-workflow/)
