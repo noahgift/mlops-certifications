@@ -7,6 +7,7 @@ Some brief notes on popular certifications related to MLOPs:
 * [Databricks-Machine Learning in Production](https://www.databricks.com/learn/certification/machine-learning-professional)
 
 * [Study Guide Databricks Academy](https://customer-academy.databricks.com/learn/mycourses)
+* Specifically:  Scalable Machine Learning with Apache Spark course
 
 ## Google 
 
