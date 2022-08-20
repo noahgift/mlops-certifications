@@ -25,6 +25,13 @@ Certification- [Microsoft Certified: Azure AI Engineer Associate](https://docs.m
 Training material:
 * [End-to-end machine learning operations (MLOps) with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/paths/build-first-machine-operations-workflow/)
 
+### Problems Framing
+
+#### Heuristics
+
+* [Deap](https://deap.readthedocs.io/en/master/)
+* [TSP](https://github.com/noahgift/or)
+
 ## References
 
 * [Red Hat Enterprise MLOps](https://cloud.redhat.com/blog/enterprise-mlops-reference-design)
