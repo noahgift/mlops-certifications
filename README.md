@@ -9,6 +9,11 @@ Some brief notes on popular certifications related to MLOPs (with a special note
 * [Study Guide Databricks Academy](https://customer-academy.databricks.com/learn/mycourses)
 * Specifically:  Scalable Machine Learning with Apache Spark course
 
+### References
+
+* Try Pandas API via workspace import:  https://docs.microsoft.com/en-us/azure/databricks/_static/notebooks/pandas-to-pandas-api-on-spark-in-10-minutes.html
+
+
 ## Google 
 
 * [Google-Professional Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
